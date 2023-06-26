@@ -1,6 +1,6 @@
 ### Opa👋! Eu sou o José Elias 
 
-- 🌱 Estudando Game Development
+- 🌱 Estudando Back-End Development
 
 ##
 <div align="center">
