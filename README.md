@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/JoseEliasTarraf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseEliasTarraf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=JoseEliasTarraf&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="(https://github-readme-activity-graph.vercel.app/graph?username=JoseEliasTarraf&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)"/>
 </div>
 <div>
   <img align="center" alt="José-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
