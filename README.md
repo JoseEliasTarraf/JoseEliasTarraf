@@ -24,8 +24,3 @@
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-0D1117?logo=postman&style=for-the-badge)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQLSEVER-0D1117?logo=microsoftsqlserver&style=for-the-badge)&nbsp;
 ![XAMARIN](https://img.shields.io/badge/-XAMARIN-0D1117?logo=xamarin&style=for-the-badge)&nbsp;
-
-### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-Javascritp-0D1117?logo=javascript&logoColor=yellow&style=for-the-badge)&nbsp;
-![HTML](https://img.shields.io/badge/-HMTL5-0D1117?logo=html5&style=for-the-badge)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS3-0D1117?logo=css3&logoColor=blue&style=for-the-badge)&nbsp;
