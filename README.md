@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/JoseEliasTarraf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseEliasTarraf&show_icons=true&bg_color=0d1117&border_color=0d1117&text_color=00EEFF&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseEliasTarraf&hide=Assembly,Java,AIDL,C&layout=compact&hide_border=true&title_color=1499FF&text_color=00EEFF&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseEliasTarraf&hide=Assembly,AIDL,C&layout=compact&hide_border=true&title_color=1499FF&text_color=00EEFF&bg_color=0d1117"/>
 </div>
     
 <div align="center">
@@ -23,4 +23,4 @@
 ![Csharp](https://img.shields.io/badge/-CSharp-0D1117?logo=csharp&logoColor=purple&style=for-the-badge)&nbsp;
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-0D1117?logo=postman&style=for-the-badge)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQLSEVER-0D1117?logo=microsoftsqlserver&style=for-the-badge)&nbsp;
-![XAMARIN](https://img.shields.io/badge/-XAMARIN-0D1117?logo=xamarin&style=for-the-badge)&nbsp;
+![XAMARIN](https://img.shields.io/badge/-JAVA-0D1117?logo=oraclejava&style=for-the-badge)&nbsp;
